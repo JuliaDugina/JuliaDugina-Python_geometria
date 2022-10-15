@@ -1,4 +1,4 @@
-# JuliaDugina-Python_geometria
+# Python_geometria
 Task:
 Implement classes:
 • Point class: specified via coordinates.
